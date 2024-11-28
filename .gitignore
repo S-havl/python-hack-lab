@@ -1,5 +1,8 @@
-*.log
-*.csv
-*.html
+# Ignorar archivos .tex
 *.tex
+
+# Ignorar otros archivos que no sean Python
+*.html
+*.css
+*.js
 *.md
